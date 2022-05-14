@@ -1,20 +1,20 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 17/02/2022
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 17/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programaci髇 Estructrada <br>
+Materia: Programaci贸n Estructrada <br>
 Ciclo: 01/2022</p>
 <br>
-<p>Este es un programa de casos usando switch con operadores l骻icos en Lenguaje C de la materia de Programaci髇 Estructurada<br>
+<p>Este es un programa de casos usando switch con operadores l贸gicos en Lenguaje C de la materia de Programaci贸n Estructurada<br>
 Muestra el uso de:
     *Variables enteras
     -printf para mostrar varias variables
     -scanf
     -El uso de include para las libreria.
     -Switch
-    -Comentarios para la doumentaci髇 interna del programa.
+    -Comentarios para la documentaci贸n interna del programa.
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	int mes;
 	//Proceso
 	printf("Introduce el numero de mes: ");
