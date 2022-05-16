@@ -18,6 +18,7 @@ Muestra el uso de:
 <br>
 <b>Objetivo:</b> Escribir el numero del mes y que me escriba el mes que corresponde. Deberá escribir los valores erróneos.
 <br>
+<br>
 <p><b>Breve descripción:</b>
 Este programa escribe el mes que quiero y que lo imprima, usando “switch” que permite realizar caso (case) que nos servirá de reemplazo del if. Para cada caso, se usa un “break” para poder separarlo de cada uno y al terminar, escribimos un “default” para indicar al programa lo que se tiene que hacer si se introduce algo más que un número o el límite de número permitido.
 <br>
