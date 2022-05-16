@@ -1,6 +1,6 @@
-/* Autor: Andriks Imanol Ruiz Mártinez, Realizado: 17/02/2022
+/* Autor: Andriks Imanol Ruiz Martínez, Realizado: 17/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada <br>
+Materia: Programación Estructurada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de casos usando switch con operadores lógicos en Lenguaje C de la materia de Programación Estructurada<br>
