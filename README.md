@@ -1,8 +1,8 @@
 # prog_est_prog11
-Autor : Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<b>Autor:</b> Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
+<b>Escuela:</b> Universidad del Valle de Mexico Campus Villahermosa <br>
+<b>Materia:</b> Programación Estructurada <br>
+<b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de casos usando switch en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -16,9 +16,9 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Escribir el numero del mes y que me escriba el mes que corresponde. Deberá escribir los valores erróneos.
+<b>Objetivo:</b> Escribir el numero del mes y que me escriba el mes que corresponde. Deberá escribir los valores erróneos.
 <br>
-<p>Breve descripción:
+<p><b>Breve descripción:</b>
 Este programa escribe el mes que quiero y que lo imprima, usando “switch” que permite realizar caso (case) que nos servirá de reemplazo del if. Para cada caso, se usa un “break” para poder separarlo de cada uno y al terminar, escribimos un “default” para indicar al programa lo que se tiene que hacer si se introduce algo más que un número o el límite de número permitido.
 <br>
 </p>
